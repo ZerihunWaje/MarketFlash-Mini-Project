@@ -11,9 +11,8 @@
 
 To design and implement a robust database and interactive dashboard solution for MarketFlash, a growing marketing company. This project aims to transition MarketFlash from spreadsheet-based data management to a structured database and provide actionable insights through a Tableau dashboard.
 
-![Screenshot 2024-09-24 230631](https://github.com/user-attachments/assets/8257d8ba-5f0d-4112-adec-c8dbb10cc777)
 
-
+![Sales Dashboard](https://github.com/user-attachments/assets/5615ebc1-03a8-4aed-8ef1-fe7c541a4669)
 
 
 ### Data Sources
