@@ -2,9 +2,11 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Recommendation](#Recommendation)
+4. [Database check](#Database-check)
+
 
 ### Project Overview
 ---
@@ -17,14 +19,14 @@ To design and implement a robust database and interactive dashboard solution for
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+*Marketing data*: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
 ### Tools
 
-- Excel - Data Cleaning
+ 1. Excel - Data Cleaning
   - [Download here](https://microsoft.com)
-- Beekeeper  - For Database code
-- Tableau - Creating dashbaord
+2. Beekeeper  - For Database code
+3. Tableau - Creating dashbaord
   
 ### Data Cleaning/Preparation
 
@@ -44,7 +46,7 @@ WHERE cond = 2;
 ```
 
 
-### Results/Findings
+### Results Findings
 
 The analysis results are summarized as follows:
 1. Facebook campaigns generally showed the highest reach (Views), but Instagram had a higher average engagement (Likes and Clicks per View).
