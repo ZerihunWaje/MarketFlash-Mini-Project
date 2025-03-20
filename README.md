@@ -42,6 +42,8 @@ Include some interesting code/features worked with
 
 ```sql
 SELECT * FROM table1
+JOIN table2
+ON table1.empid=table2.empid
 WHERE cond = 2;
 ```
 
